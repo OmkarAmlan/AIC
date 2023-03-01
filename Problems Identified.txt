@@ -1,0 +1,14 @@
+1. 
+    Words like 'scam','fraud','fake', and others (complete index available in data.txt) appear amongst the most frequently used words when analysing the reviews of the app left by users on Play Store. 
+
+2.
+    There happens to be a considerable contrast when it comes to the ratings as available on the Google Play Store and on other review platforms like MouthShut in terms of rating even though the results are very similar when seening the overall percentage of negative/positive reviews across both platforms. (data available in data.txt)
+
+3.
+    The net emotion/Sentiment invoked in people as per results from Sentimental analyses is largely negative, an emotion evoked mostly due to large degrees of mistrust. 
+
+4.
+    The target user base seems to be inappropriate considering the fact that a large number of the reviews were unitelligible or did not provide very meaningful insight, supported by the fact a large number of the reviews were largely neutral.
+
+5.
+    A general problem as observed by analysing the reviews is a sub par user experience, propagated particularly by slow load times and withdrawal issues, which can be further illustrated by by frequent appearance of words like "slow","crashing","bugged",etc.

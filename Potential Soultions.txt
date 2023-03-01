@@ -1,0 +1,20 @@
+1.
+    Words like 'scam','fraud' among others indicate a degree of issues, the reasons of which may be attributed to the fact that these individuals may not have been able to recover their initial investment. This could be a leading cause for the general sentiment of disdian and mistrust. 
+    A possible solution to the issue could be the introduction of an ELO system (along the lines of those present in chess.com or others) so that players of similar skill levels may be matched against one another, thus, leveling the playing field and allowing people better chances to win and thereby earn back their investments. Additionally, a feature for studying top rated players could be made available.
+
+2.
+    The huge disparity among ratings between Play Store and third party review websites like MouthShut, even though the reviews happen to be pretty similar across the board could be possible if most players who rate the app highly, do not leave behind a review on the playstore. Alternatively, this could also be because of a very vocal minority that could be airing their grievances on third party review websites.
+    A possible solution to this could be incentivising reviews, by providing players in game benefits if they provide a review (in words) on the Google Play Store.
+
+3.
+    The net emotion invoked may be altered by a popular word of mouth publicity, pertaining to the fact that one is more likely to stick game and give it chances if it has been referred to them by a known individual. This may invoke a sense of positive feeling if there is a separate individual involved in the reason behind them starting the game. 
+    This could be incentivised by involving attractive in game benefits with each referred player, both to the player referred and the player referring, basically building in a referral system may help reverse the highly negative sentimental analysis.
+
+
+4.
+    PokerBaazi is currently rated 12+ on the Google Play Store. While this has helped in inflating the number of downloads, it could also be the cause behind the higher number of casual players. These players not only not have enough financial independence to put in substantial and long term gameplay but also most likely are not aware of the proper methods of playing such a tactical game involving a great degree of mental fortitude.
+    A fix to this could be listing the app as 17+ or 18+. While this would reduce the number of following downloads, this would greatly benefit in terms of per capita statistics, where the average player could give far more meaningful feedback, and/or better reasoning to retain/discard certain features in the game.
+
+5.
+    There exist frequent reviews suggesting the app on the Play Store being slow, bugged or crashy.
+    The simple fix to it is making investments into better app development for the mobile app, to enrich the user experience.

@@ -1,0 +1,55 @@
+PLAYSTORE REVIEWS:
+Index of occuring negative words in reviews with score of <= 2:
+
+scam 4
+blocked 3
+fraud 3
+slow 3
+ads 3
+fake 3
+issues 2
+bad 2
+care 2
+ad 2
+bots 2
+lost 1
+verification 1
+blocking 1
+bug 1
+cheated 1
+trust 1
+failed 1
+crashing 1
+looted 1
+suicide 1
+cheating 1
+bugs 1
+cheat 1
+bugged 1
+waste 1
+issue 1
+
+Count of reviews with score <= 2 is 51
+
+Total unbiased review base = 91
+Average positive review = 0.18810989010989013
+Average negative review = 0.1360879120879121
+Average neutral review = 0.6757692307692306
+Compound average = -0.008336263736263746
+
+
+Positive Reviews = 39.56043956043956 %
+Negative Reviews = 43.956043956043956 %
+Neutral Reviews = 16.483516483516482 %
+
+WEB DATA:
+Web data Sentimental analysis
+Average positive review = 0.2517352941176471
+Average negative review = 0.18211764705882352
+Average neutral review = 0.9043382352941174
+Compound average = -0.011155882352941189
+
+
+Positive Reviews = 41.1764705882353 %
+Negative Reviews = 48.529411764705884 %
+Neutral Reviews = 10.294117647058824 %
