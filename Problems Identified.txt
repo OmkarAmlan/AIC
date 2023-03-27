@@ -8,7 +8,7 @@
     The net emotion/Sentiment invoked in people as per results from Sentimental analyses is largely negative, an emotion evoked mostly due to large degrees of mistrust. 
 
 4.
-    The target user base seems to be inappropriate considering the fact that a large number of the reviews were unitelligible or did not provide very meaningful insight, supported by the fact a large number of the reviews were largely neutral.
+    The target user base seems to be inappropriate considering the fact that a large number of the reviews were unitelligible or did not provide very meaningful insight, supported by the fact a large number of the reviews were largely neutral.The inappropriate userbase leads to audience that can't be retained.
 
 5.
-    A general problem as observed by analysing the reviews is a sub par user experience, propagated particularly by slow load times and withdrawal issues, which can be further illustrated by by frequent appearance of words like "slow","crashing","bugged",etc.
+    A general problem as observed by analysing the reviews is a sub par or quite negative user experience, propagated particularly by slow load times and withdrawal issues, which can be further illustrated by by frequent appearance of words like "slow","crashing","bugged",etc.
