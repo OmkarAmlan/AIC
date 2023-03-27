@@ -24,7 +24,7 @@ para=""
 word_index={}
 while k<i:
     if(result[k]['score']<=2):
-        line_text=result[k]['content'].lower().replace('!',"").replace(',',"").replace('.',"").replace('?',"").replace('$',"").replace('%',"").replace("/","")
+        line_text=result[k]['content'].lower().replace('!',"").replace(',',"").replace('.',"").replace('?',"").replace('$',"").replace('%',"").replace("/","").replace("-","").replace("&","").replace(":","").replace(';',"").replace("+","")
         para+=line_text
         count+=1
     k+=1
@@ -39,7 +39,7 @@ while b<length:
     b+=1
     
 print("\n")
-print("Count of reviews with score <= 2 is " + str(count) + "\n")
+print("Number of reviews with score <= 2 is " + str(count) + "\n")
 
 #Run sentimental analysis on an unbiased set of 100 reviews from play store.
 L=[]
@@ -47,7 +47,7 @@ sentimentOutput=[]
 j=0
 countbase=0
 while j<i:
-    line_text2=result[j]['content'].lower().replace('!',"").replace(',',"").replace('.',"").replace('?',"").replace('$',"").replace('%',"").replace("/","")
+    line_text2=result[j]['content'].lower().replace('!',"").replace(',',"").replace('.',"").replace('?',"").replace('$',"").replace('%',"").replace("/","").replace("-","").replace("&","").replace(":","").replace(';',"").replace("+","")
     L.append(line_text2)
     countbase+=1
     j+=1
@@ -94,7 +94,7 @@ print("Negative Reviews = " + str(neg*100/len(sentimentOutput)) + " %")
 print("Neutral Reviews = " + str(neu*100/len(sentimentOutput)) + " %")
 print("\n")
 
-#Web data from Web-scraping.
+# Web-scraping from xl file.
 excel_data_df = pd.read_excel("C:/Users/crash/Desktop/College Work/Revendous Case Study/Run_ResultsEx.xlsx")
 WebL=(excel_data_df['Content'].tolist())
 
@@ -102,7 +102,7 @@ WebL=(excel_data_df['Content'].tolist())
 print("Web data Sentimental analysis")
 WebDataSA=[]
 for temp in WebL:
-    WebDataSA.append(sentiment.polarity_scores(row))
+    WebDataSA.append(sentiment.polarity_scores(temp))
 
 sumpos1=0
 sumneg1=0
@@ -111,7 +111,7 @@ neg1=0
 neu1=0
 sumneu1=0
 sumcomp1=0
-
+#Updating Sentiment var
 for o in range(len(WebDataSA)):
     if(sentimentOutput[o]['compound']==0):
         neu1+=1
